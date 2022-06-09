@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Demo Spinner Test</string>
+    <string name="app_name">Simple To Do</string>
     <string name="add">ADD</string>
     <string name="delete">DELETE</string>
     <string name="clear">CLEAR</string>
